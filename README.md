@@ -8,6 +8,7 @@ $ npm run serve
 ### react + redux + express + webpack hot reloading
 
 ```shell
+$ npm install -g nodemon
 $ npm run install-core
 ```
 install-core instalara todas estas dependencias en su version mas reciente:
