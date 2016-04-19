@@ -1,0 +1,18 @@
+{
+  "name": "react-todo-list",
+  "version": "1.0.0",
+  "description": "React + Redux + Webpack + Express + Hot reloading de Kurt Weiberth",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "nodemon server/server.js --ignore components",
+    "install-core": "npm i --save babel-core babel-loader babel-preset-es2015 babel-preset-react babel-preset-react-hmre express react react-dom react-redux redux redux-logger webpack webpack-dev-middleware webpack-hot-middleware"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kweiberth/react-todo-list.git"
+  },
+  "author": "Farriagada",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
